@@ -67,7 +67,6 @@
     <Compile Include="Assets/Scripts/PickUpObject.cs" />
     <Compile Include="Assets/Scripts/Gun.cs" />
     <Compile Include="Assets/Scripts/BoatRepair.cs" />
-    <Compile Include="Assets/Scripts/pressurePlatesPuzzle/LightFeedback.cs" />
     <Compile Include="Assets/Scripts/TargetScript.cs" />
     <Compile Include="Assets/Scripts/HitTarget.cs" />
     <Compile Include="Assets/Scripts/PressurePlateManager.cs" />
@@ -76,13 +75,10 @@
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/User Interaction/IInteractable.cs" />
     <Compile Include="Assets/Scripts/User Interaction/CodeChest.cs" />
-    <Compile Include="Assets/Scripts/pressurePlatesPuzzle/PuzzlePlateManager.cs" />
     <Compile Include="Assets/Scripts/FPS_Controller.cs" />
     <Compile Include="Assets/Scripts/User Interaction/Interactor.cs" />
     <Compile Include="Assets/Scripts/User Interaction/InteractionPromptUI.cs" />
-    <Compile Include="Assets/Scripts/pressurePlatesPuzzle/SinglePressurePlate.cs" />
     <Compile Include="Assets/Scripts/PickupClass.cs" />
-    <Compile Include="Assets/Scripts/pressurePlatesPuzzle/PressurePlateSequenceManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
